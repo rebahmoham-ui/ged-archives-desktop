@@ -1,0 +1,15 @@
+# Node.js
+
+# Dependency directories
+node_modules/
+dist/
+
+# macOS
+.DS_Store
+
+# Executables
+*.exe
+*.dmg
+
+# Environment variables
+.env
